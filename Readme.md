@@ -25,3 +25,7 @@ Thiswill be very cost effective. It will also prevent aimlessmisdirection for so
 ## Future Enhancements
 
 Later additions can include transport fares to locations, weatherconditions, or additional voice features.
+
+## Designs
+
+![1793702841011](image/Readme/1793702841011.png)![1793702834759](image/Readme/1793702834759.png)![1793702821587](image/Readme/1793702821587.png)![1793702814467](image/Readme/1793702814467.png)![1793702804081](image/Readme/1793702804081.png)
